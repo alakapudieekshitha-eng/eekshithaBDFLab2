@@ -8,7 +8,8 @@
 **Faculty:** SHIVA SAI TEJA
 **Title:** SQLite database and CRUD routes
 
-## Live Link https://vinuthna-5017-lab2.onrender.com/books
+## Live Link https://eekshithabdflab2.onrender.com/books
+
 
 **Status:** deployed
 
@@ -115,10 +116,10 @@ The server provides the following five endpoints.
 
 ```json
 {
-  "title": "Clean Code",
-  "author": "Robert Martin",
-  "price": 500,
-  "pages": 464
+  "title": "Clean mode",
+  "author": "bob Martin",
+  "price": 899,
+  "pages": 563
 }
 ```
 
